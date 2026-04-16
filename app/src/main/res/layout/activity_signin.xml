@@ -47,7 +47,7 @@
                 android:id="@+id/email"
                 android:textColor="#000"
                 android:layout_margin="8dp"
-                android:background="@color/white"
+                android:background="#D7D2D2"
                 android:padding="11dp"/>
 
 
@@ -60,7 +60,7 @@
                 android:id="@+id/password"
                 android:textColor="#000"
                 android:layout_margin="8dp"
-                android:background="@color/white"
+                android:background="#D7D2D2"
                 android:padding="11dp"/>
 
 <!--            Below is the signin Button-->
