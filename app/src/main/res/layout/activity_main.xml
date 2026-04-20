@@ -34,7 +34,8 @@
             android:text="Signup✍️"
             android:textSize="25sp"
             android:padding="10dp"
-            android:layout_marginLeft="30dp"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
             android:layout_marginTop="8dp"
             android:textColor="#486"
             android:backgroundTint="#415728"
@@ -46,12 +47,26 @@
             android:layout_height="wrap_content"
             android:text="Signin🪹"
             android:textSize="25sp"
+            android:layout_weight="1"
             android:padding="10dp"
-            android:layout_marginLeft="40dp"
+            android:layout_marginLeft="5dp"
             android:layout_marginTop="8dp"
             android:textColor="#486"
             android:backgroundTint="#415728"
             android:id="@+id/signinBtn"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About🪽"
+            android:textSize="25sp"
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="8dp"
+            android:textColor="#486"
+            android:backgroundTint="#415728"
+            android:id="@+id/aboutBtn"/>
     </LinearLayout>
 
 <!--    Below is our progress bar-->
